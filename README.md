@@ -4,3 +4,6 @@
 # CSS
 https://www.styled-components.com/ <br>
 https://rc.glamorous.rocks/
+
+# DB
+https://www.rethinkdb.com/faq/
