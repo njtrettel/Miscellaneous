@@ -7,3 +7,6 @@ https://rc.glamorous.rocks/
 
 # DB
 https://www.rethinkdb.com/faq/
+
+### Life
+https://www.etf.com/docs/IfYouCan.pdf
