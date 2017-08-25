@@ -1,5 +1,7 @@
 # React
-<b>Static sites</b> - https://www.gatsbyjs.org/
+<b>Static sites</b> - https://www.gatsbyjs.org/ <br>
+<b>Performance</b>
+https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36
 
 # Redux
 <b>Selector</b> - https://www.youtube.com/watch?v=XCQ0ZSr-a2o
