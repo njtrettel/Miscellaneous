@@ -1,7 +1,8 @@
 # React
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
-<b>Performance</b>
+<b>Performance</b> - 
 https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36 <br> 
+<b>Container vs Presentational Components</b> - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0 <br>
 
 <b>UI Framework</b> <br>
 http://www.material-ui.com/#/ <br>
