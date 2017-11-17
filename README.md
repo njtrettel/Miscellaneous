@@ -1,3 +1,6 @@
+# General
+<b>So You Want to Be a Wizard</b> - [link](https://github.com/njtrettel/Miscellaneous/blob/master/wizard-zine.pdf) <br>
+
 # React
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
 <b>Performance</b> - 
