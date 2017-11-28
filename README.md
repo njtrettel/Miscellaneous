@@ -22,5 +22,8 @@ https://rc.glamorous.rocks/
 # DB
 https://www.rethinkdb.com/faq/
 
+# Security
+<b>Cheatsheet</b> - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
 ### Life
 https://www.etf.com/docs/IfYouCan.pdf
