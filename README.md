@@ -17,7 +17,8 @@ http://jxnblk.com/rebass/
 
 # CSS
 https://www.styled-components.com/ <br>
-https://rc.glamorous.rocks/
+https://rc.glamorous.rocks/ <br>
+https://css-tricks.com/building-skeleton-screens-css-custom-properties/ <br>
 
 # DB
 https://www.rethinkdb.com/faq/
