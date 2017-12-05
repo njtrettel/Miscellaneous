@@ -2,6 +2,9 @@
 <b>So You Want to Be a Wizard</b> - [link](https://github.com/njtrettel/Miscellaneous/blob/master/wizard-zine.pdf) <br>
 <b>freeCodeCamp tech talks</b> - [link](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A) <br>
 
+# JS (general)
+<b>Parcel bundler</b> - https://parceljs.org/ <br>
+
 # React
 <b>React Sandbox</b> - https://codesandbox.io/ <br>
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
