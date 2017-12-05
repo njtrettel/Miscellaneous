@@ -3,6 +3,7 @@
 <b>freeCodeCamp tech talks</b> - [link](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A) <br>
 
 # React
+<b>React Sandbox</b> - https://codesandbox.io/ <br>
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
 <b>Performance</b> - 
 https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-are-problematic-f1c08b060e36 <br> 
