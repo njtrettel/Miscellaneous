@@ -1,5 +1,6 @@
 # General
 <b>So You Want to Be a Wizard</b> - [link](https://github.com/njtrettel/Miscellaneous/blob/master/wizard-zine.pdf) <br>
+<b>freeCodeCamp tech talks</b> - [link](https://www.youtube.com/channel/UCVk8weS4S2kJfja72fTxh5A) <br>
 
 # React
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
