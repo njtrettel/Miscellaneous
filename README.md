@@ -16,10 +16,10 @@ https://medium.freecodecamp.org/why-arrow-functions-and-bind-in-reacts-render-ar
 <b>UI Framework</b> <br>
 http://www.material-ui.com/#/ <br>
 http://blueprintjs.com/ <br>
-http://jxnblk.com/rebass/
+http://jxnblk.com/rebass/ <br>
 
 # Redux
-<b>Selector</b> - https://www.youtube.com/watch?v=XCQ0ZSr-a2o
+<b>Selector</b> - https://www.youtube.com/watch?v=XCQ0ZSr-a2o <br>
 
 # CSS
 https://www.styled-components.com/ <br>
@@ -27,13 +27,13 @@ https://rc.glamorous.rocks/ <br>
 https://css-tricks.com/building-skeleton-screens-css-custom-properties/ <br>
 
 # DB
-https://www.rethinkdb.com/faq/
+<b>Rethink DB</b> - https://www.rethinkdb.com/faq/ <br>
 
 # Security
-<b>Cheatsheet</b> - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+<b>Cheatsheet</b> - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ <br>
 
 # Google Actions
-<b>Analytics</b> - https://www.dashbot.io/
+<b>Analytics</b> - https://www.dashbot.io/ <br>
 
 ### Life
 https://www.etf.com/docs/IfYouCan.pdf
