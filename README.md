@@ -6,6 +6,7 @@
 
 # JS (general)
 <b>Parcel bundler</b> - https://parceljs.org/ <br>
+<b>Front end cheatsheet</b> - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a <br>
 
 # React
 <b>React Sandbox</b> - https://codesandbox.io/ <br>
