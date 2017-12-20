@@ -30,6 +30,7 @@ https://css-tricks.com/building-skeleton-screens-css-custom-properties/ <br>
 
 # DB
 <b>Rethink DB</b> - https://www.rethinkdb.com/faq/ <br>
+<b>Horizon</b> - http://samuelhughes.com/rethinkdb/horizon-docs/docs/ <br>
 
 # Security
 <b>Cheatsheet</b> - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ <br>
