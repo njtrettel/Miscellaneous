@@ -22,6 +22,7 @@ http://jxnblk.com/rebass/ <br>
 
 # Redux
 <b>Selector</b> - https://www.youtube.com/watch?v=XCQ0ZSr-a2o <br>
+<b>Don't `.then(() => dispatch()).catch()`</b> - https://twitter.com/dan_abramov/status/770914221638942720 <br>
 
 # CSS
 https://www.styled-components.com/ <br>
