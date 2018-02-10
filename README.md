@@ -9,6 +9,7 @@
 <b>Front end cheatsheet</b> - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a <br>
 
 # React
+<b>(Router) Where to fetch</b> - https://github.com/ReactTraining/react-router/blob/v3/docs/guides/ComponentLifecycle.md
 <b>React Sandbox</b> - https://codesandbox.io/ <br>
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
 <b>Performance</b> - 
