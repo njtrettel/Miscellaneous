@@ -26,6 +26,7 @@ http://jxnblk.com/rebass/ <br>
 <b>Don't `.then(() => dispatch()).catch()`</b> - https://twitter.com/dan_abramov/status/770914221638942720 <br>
 
 # CSS
+<b>https://www.sketchingwithcss.com/samplechapter/cheatsheet.html<b> <br>
 https://www.styled-components.com/ <br>
 https://rc.glamorous.rocks/ <br>
 https://css-tricks.com/building-skeleton-screens-css-custom-properties/ <br>
