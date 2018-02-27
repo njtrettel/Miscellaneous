@@ -8,6 +8,9 @@
 <b>Parcel bundler</b> - https://parceljs.org/ <br>
 <b>Front end cheatsheet</b> - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a <br>
 
+# Node.js
+<b>Promisify</b> - http://2ality.com/2017/05/util-promisify.html <br>
+
 # React
 <b>(Router) Where to fetch</b> - https://github.com/ReactTraining/react-router/blob/v3/docs/guides/ComponentLifecycle.md <br>
 <b>React Sandbox</b> - https://codesandbox.io/ <br>
