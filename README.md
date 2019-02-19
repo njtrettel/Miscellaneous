@@ -12,6 +12,7 @@
 <b>Promisify</b> - http://2ality.com/2017/05/util-promisify.html <br>
 
 # React
+<b>Hooks examples</b> - https://usehooks.com/ <br>
 <b>(Router) Where to fetch</b> - https://github.com/ReactTraining/react-router/blob/v3/docs/guides/ComponentLifecycle.md <br>
 <b>React Sandbox</b> - https://codesandbox.io/ <br>
 <b>Static sites</b> - https://www.gatsbyjs.org/ <br>
